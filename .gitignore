@@ -1,0 +1,7 @@
+# colcon build artifacts for the ROS 2 workspace
+/dev/build/
+/dev/log/
+/dev/install/
+
+# nix build result symlink
+/result
