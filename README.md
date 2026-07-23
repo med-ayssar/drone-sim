@@ -1,4 +1,4 @@
-# drone-sim
+# droneSim-GC
 
 PX4 SITL + ROS 2 (Humble) development environment, wired together with Nix.
 
